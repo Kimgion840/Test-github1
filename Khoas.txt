@@ -1,1 +1,4 @@
 K49
+create
+git init (roi viet code)
+up (git status, git add ., git commit -m "....", git remote add origin https://github.com/Kimgion840/Test-github1.git, git push origin master)
